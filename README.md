@@ -1,7 +1,6 @@
 <h1>Hi, I'm Guy Casey Henderson! <br/>
   <a href="https://github.com/serraphx">Cybersecurity Student</a>, 
-  <a href="https://www.linkedin.com/in/guy-casey-henderson/">Nurse,</a>
-  <a href="https://www.youtube.com/@GuyHenderson">YouTuber</a></h1>
+  <a href="https://www.linkedin.com/in/guy-casey-henderson/">Nurse</a>
 </h1>
 
 <h2>Python Coding Pojects:</h2>
