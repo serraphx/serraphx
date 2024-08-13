@@ -6,6 +6,11 @@
 
 - **[Semester final project](https://github.com/serraphx/Weather-Project-FD)**
 
+## Cybersecurity Course Projects:
+
+- **[Database Case Study](https://github.com/serraphx/Database-Case-Study)**
+- **[Converting JSON to and from SQL](https://github.com/serraphx/Converting-JSON-to-and-from-SQL)**
+
 ## I’m currently working on ...
 
 - **Cybersecurity Labs and Projects**
