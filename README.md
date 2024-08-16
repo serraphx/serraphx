@@ -5,6 +5,7 @@
 ## Python Coding Pojects:
 
 - **[Semester final project](https://github.com/serraphx/Weather-Project-FD)**
+- **[Remove metadata from images](https://github.com/serraphx/Remove-image-metadata)**
 
 ## Cybersecurity Course Projects:
 
